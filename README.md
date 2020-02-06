@@ -12,6 +12,15 @@ libraries.
 This code is meant to be used as a guide to help people get basic Python API script examples
 to work on their machines, **not** as a working *solution* for students to claim as their own.
 
+## Getting this Repo
+
+Use ```git``` to clone this repository. This would be much quicker than copying the files 
+one by one.
+
+```shell script
+git clone https://github.com/cfh294/datamining1-hw1.git
+```
+
 ## Requirements
 
 Just run the ```requirements.txt``` file with ```pip```.
